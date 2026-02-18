@@ -94,5 +94,34 @@
 }
 
 #meg {
-    top:210px;
+    top:220px;
+    text-indent:50px;
+}
+
+#art1 {
+    position:absolute;
+    top:205px;
+}
+
+#art2 {
+    position:absolute;
+    top:205px;
+    left:650px;
+}
+
+#art3 {
+    position:absolute;
+    top:205px;
+}
+
+
+#part1 {
+    color:black;
+    position:reletive;
+    margin-right:auto;
+    top:110px;
+    z-index: 9999;
+    font-size:20px;
+    height:10px;
+    width: 98vw;
 }
