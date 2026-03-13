@@ -120,6 +120,7 @@
 #art3 {
     position:absolute;
     top:205px;
+    color: blue;
     font-family: Calibri, "Times New Roman";
 }
 
@@ -127,6 +128,7 @@
     position:absolute;
     top:205px;
     left:650px;
+    color: blue;
     font-family: Calibri, "Times New Roman";
 }
 
