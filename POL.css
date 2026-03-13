@@ -12,13 +12,14 @@
     color:white;
     position:absolute;
     display:flex;
+    font-family: Calibri, "Times New Roman";
     Font-size:20px;
     
 }
 
 .body {
     background:gray;
-    font-family:"Times New Roman";
+    font-family: Calibri, "Times New Roman";
     overflow-x: hidden;
     color:black;
     
@@ -28,11 +29,13 @@
     color:black;
     position:absolute;
     margin-right:auto;
+    font-family: Calibri, "Times New Roman";
     top:110px;
     z-index: 9999;
     font-size:20px;
     height:10px;
     width: 98vw;
+    text-indent: 30px;
 }
 
 .grid {
@@ -55,6 +58,7 @@
     align-content:center;
     color:black;
     font-size:50px;
+    font-family: Calibri, "Times New Roman";
     text-decoration: none;
     
     
@@ -64,6 +68,7 @@
     background:rgb(150,150,150);
     text-align:center;
     align-content:center;
+    font-family: Calibri, "Times New Roman";
     color:black;
     font-size:50px;
     text-decoration: none;
@@ -73,6 +78,7 @@
     Background: rgb(100,100,100);
     text-align:center;
     align-content:center;
+    font-family: Calibri, "Times New Roman";
     font-size:50px;
     color:black;
     text-decoration: none;
@@ -82,6 +88,7 @@
     background:rgb(50,50,50);
     text-align:center;
     align-content:center;
+    font-family: Calibri, "Times New Roman";
     font-size:50px;
     color:black;
     text-decoration: none;
@@ -96,6 +103,7 @@
 #meg {
     top:220px;
     text-indent:50px;
+    font-family: Calibri, "Times New Roman";
 }
 
 #art1 {
@@ -112,6 +120,14 @@
 #art3 {
     position:absolute;
     top:205px;
+    font-family: Calibri, "Times New Roman";
+}
+
+#art4 {
+    position:absolute;
+    top:205px;
+    left:650px;
+    font-family: Calibri, "Times New Roman";
 }
 
 
@@ -124,4 +140,32 @@
     font-size:20px;
     height:10px;
     width: 98vw;
+    text-indent: 30px;
+    font-family: Calibri, "Times New Roman";
+}
+
+#ref1 {
+    color:black;
+    position:absolute;
+    margin-right:auto;
+    top:580px;
+    z-index: 9999;
+    font-size:20px;
+    height:10px;
+    width: 45vw;
+    text-indent: 30px;
+    font-family: Calibri, "Times New Roman";
+}
+
+#ref2 {
+    color:black;
+    position:absolute;
+    margin-right:auto;
+    top:300px;
+    z-index: 9999;
+    font-size:20px;
+    height:10px;
+    width: 45vw;
+    text-indent: 30px;
+    font-family: Calibri, "Times New Roman";
 }
