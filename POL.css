@@ -150,24 +150,41 @@
     color:black;
     position:absolute;
     margin-right:auto;
+    padding-bottom: 20px;
     top:580px;
     z-index: 9999;
     font-size:20px;
-    height:10px;
+    height:auto;
     width: 45vw;
     text-indent: 30px;
     font-family: Calibri, "Times New Roman";
+    
 }
 
 #ref2 {
     color:black;
     position:absolute;
     margin-right:auto;
+    padding-bottom: 20px;
     top:300px;
     z-index: 9999;
     font-size:20px;
-    height:10px;
+    height:auto;
     width: 45vw;
+    text-indent: 30px;
+    font-family: Calibri, "Times New Roman";
+}
+
+#ref3 {
+    color:black;
+    position:absolute;
+    margin-right:auto;
+    padding-bottom: 20px;
+    top:300px;
+    z-index: 9999;
+    font-size:20px;
+    height:auto;
+    width: auto;
     text-indent: 30px;
     font-family: Calibri, "Times New Roman";
 }
