@@ -18,10 +18,11 @@
 }
 
 .body {
-    background:gray;
+    background:rgb(150,150,150);
     font-family: Calibri, "Times New Roman";
     overflow-x: hidden;
     color:black;
+    margin-bottom:20px;
     
 }
 
@@ -53,7 +54,7 @@
 }
 
 #grid1 {
-    background:rgb(200,200,200);
+    background:rgb(210,210,210);
     text-align:center;
     align-content:center;
     color:black;
@@ -65,7 +66,7 @@
 }
 
 #grid2 {
-    background:rgb(150,150,150);
+    background:rgb(175,175,175);
     text-align:center;
     align-content:center;
     font-family: Calibri, "Times New Roman";
@@ -75,7 +76,7 @@
 }
 
 #grid3 {
-    Background: rgb(100,100,100);
+    Background: rgb(125,125,125);
     text-align:center;
     align-content:center;
     font-family: Calibri, "Times New Roman";
@@ -85,7 +86,7 @@
 }
 
 #grid4 {
-    background:rgb(50,50,50);
+    background:rgb(85,85,85);
     text-align:center;
     align-content:center;
     font-family: Calibri, "Times New Roman";
